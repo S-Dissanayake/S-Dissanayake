@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Web Developer
 ------------------------
 
-👨‍💻 Welcome to my Github, I'm an experienced software engineer specializing in web application development with proficiency in React.js and Node.js. With over 2 years of hands-on experience, I've contributed to various projects, leveraging my expertise in building scalable and efficient solutions. Passionate about crafting clean, maintainable code and continuously exploring new technologies to enhance development processes. Check out my repositories to see some of my latest work!
+👨‍💻 Welcome to my Github, I'm an experienced software engineer specializing in web application development with proficiency in React.js and Node.js. With 3 years of hands-on experience, I've contributed to various projects, leveraging my expertise in building scalable and efficient solutions. Passionate about crafting clean, maintainable code and continuously exploring new technologies to enhance development processes. Check out my repositories to see some of my latest work!
 
 * 🌍  I'm based in SriLanka
 
